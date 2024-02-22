@@ -1,1 +1,0 @@
-## Apache KIE Tools Workspace

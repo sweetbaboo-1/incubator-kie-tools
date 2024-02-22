@@ -1,1 +1,0 @@
-document.getElementById("<%=id%>").value = data?.<%=path%> ? new Date(data?.<%=path%>).toISOString().slice(0, 16) : "";

@@ -1,1 +1,0 @@
-## YaRD Language Service
